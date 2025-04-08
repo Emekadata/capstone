@@ -25,4 +25,7 @@ This repository contains all the Python scripts, Jupyter notebooks, and configur
 - Model training and evaluation (Logistic Regression, Random Forest, etc.)  
 - Prediction and risk-mapping of RTOR-prone intersections  
 
+## 🪪 License
+
+This project is licensed under the [MIT License](./LICENSE).
 
