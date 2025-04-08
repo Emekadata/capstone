@@ -1,0 +1,10 @@
+## 🙌 Acknowledgments
+
+We gratefully acknowledge the contributions of the following:
+
+- **San Francisco Department of Public Health (SFDPH)** and **San Francisco Police Department (SFPD)** for maintaining and publishing open accident data via [DataSF](https://data.sfgov.org/).
+- **City and County of San Francisco** for supporting open data initiatives that enable urban safety research.
+- **Academic mentors and faculty advisors** for their guidance throughout the capstone project.
+- The **community of open-source contributors** whose tools and libraries powered our analysis — including Pandas, Scikit-learn, Matplotlib, and Seaborn.
+
+This project would not have been possible without transparent access to public datasets and support from the local data ecosystem.
